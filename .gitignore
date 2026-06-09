@@ -57,3 +57,11 @@ e2b-template-*
 repomix-output.txt
 bun.lockb
 .env*.local
+
+# OpenNext
+.open-next
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
